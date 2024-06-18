@@ -1,6 +1,6 @@
-mylogs.log
-
-
+/mylogs.log
+*.log
+ignore/
 
 
 
